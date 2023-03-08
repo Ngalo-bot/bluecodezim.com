@@ -109,7 +109,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
+  background-image: url(search-icon.png);
   background-size: 20px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -156,7 +156,7 @@ a:focus {
 }
 
 .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(menu.png);
   background-size: 35px;
 }
 
@@ -167,7 +167,7 @@ a:focus {
 }
 
 .slider_section .slider_container {
-  background-image: url(../images/slider-bg.jpg);
+  background-image: url(slider-bg.jpg);
   background-size: cover;
   color: #ffffff;
   padding: 25px 0;
@@ -269,15 +269,15 @@ a:focus {
 }
 
 .slider_section .carousel_btn-box .carousel-control-prev {
-  background-image: url(../images/prev.png);
+  background-image: url(prev.png);
 }
 
 .slider_section .carousel_btn-box .carousel-control-next {
-  background-image: url(../images/next.png);
+  background-image: url(next.png);
 }
 
 .service_section {
-  background-image: url(../images/service-bg.jpg);
+  background-image: url(service-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 85% 85%;
@@ -580,14 +580,14 @@ a:focus {
   left: -30px;
   background-color: #000000;
   border-radius: 0 100% 100% 0;
-  background-image: url(../images/prev-arrow.png);
+  background-image: url(prev-arrow.png);
   background-position: 37px center;
 }
 
 .logo_section .owl-carousel .owl-nav .owl-next {
   right: -30px;
   border-radius: 100% 0 0 100%;
-  background-image: url(../images/next-arrow.png);
+  background-image: url(next-arrow.png);
   background-position: 12.8px center;
 }
 
@@ -637,7 +637,7 @@ a:focus {
 }
 
 .agency_section .agency_container {
-  background-image: url(../images/work_img2.jpg);
+  background-image: url(work_img2.jpg);
   background-size: cover;
   margin: 0 45px;
   padding: 90px 75px;
